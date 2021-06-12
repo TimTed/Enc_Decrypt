@@ -1,9 +1,9 @@
 # -*- coding=utf-8 -*-
 # Copyright  Timmy Tedy
-# Recode ?Karmakhan
+# Recode Timmy
 # Tolong Kembangkan Lagi Tools Ini, Meskipun Unfaedah:v
 # Maaf Kalo Ada Yang Error Wkwk
-# Tools Ini Di Cari² Para Recoder
+# Tools Ini Di Cari Para Recoder
 # Banyak Yang Memperjual Belikan Tools Seperti Ini
 # Tapi Disini Free Dan Juga Open Source :)
 # ------------* Maaf Kalo Codingannya Berantakan *--------------
